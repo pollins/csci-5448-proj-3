@@ -1,5 +1,6 @@
 # csci-5448-proj-3
  CSCI 5448 Project 3
+ Adam Pollins
 
 ## Language and environment
 Developed in JDK 13
