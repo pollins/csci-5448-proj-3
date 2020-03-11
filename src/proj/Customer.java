@@ -54,6 +54,7 @@ public abstract class Customer {
 				cost += car.cost(); // then we charge for the first day, which includes the accessories
 				pay(cost);
 				record.addCar(car);
+				cars.add(car);
 			}
 			store.fileRecord(record);
 		}
@@ -111,21 +112,23 @@ public abstract class Customer {
 	 * @param car
 	 */
 	void returnCar(Car car) {
+		CarFactory factory = new CarFactory();
 		cars.remove(car);
 		String model = car.getModel();
-		Car cleanCar;
+		Plate plate = car.getPlate();
+		Car cleanCar = null;
 		if(model.equals("Economy Car")) // dedecorate car
-			cleanCar = new Economy(car);
+			cleanCar = factory.createCar("economy", plate);
 		else if(model.equals("Standard Car"))
-			cleanCar = new Standard(car);
+			cleanCar = factory.createCar("standard", plate);
 		else if(model.equals("Luxury Car"))
-			cleanCar = new Luxury(car);
+			cleanCar = factory.createCar("luxury", plate);
 		else if(model.equals("SUV"))
-			cleanCar = new SUV(car);
+			cleanCar = factory.createCar("suv", plate);
 		else if(model.equals("Minivan"))
-			cleanCar = new Minivan(car);
-		else
-			cleanCar = null;
+			cleanCar = factory.createCar("minivan", plate);
+		if(cleanCar == null)
+			throw new NullPointerException("Car is null");
 		store.addCar(cleanCar);
 	}
 	

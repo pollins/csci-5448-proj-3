@@ -37,6 +37,10 @@ public abstract class Car {
 		plate = myPlate;
 	}
 	
+	public Plate getPlate() {
+		return plate;
+	}
+	
 	/**
 	 * return the Car model
 	 */

@@ -15,6 +15,7 @@ public class SafetySeat extends CarDecorator {
 	 * Concrete decorator constructor
 	 */
 	public SafetySeat(Car myCar) {
+		super(myCar);
 		car = myCar;
 	}
 

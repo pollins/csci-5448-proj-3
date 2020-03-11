@@ -15,6 +15,7 @@ public class GPS extends CarDecorator {
 	 * Concrete decorator constructor
 	 */
 	public GPS(Car myCar) {
+		super(myCar);
 		car = myCar;
 	}
 

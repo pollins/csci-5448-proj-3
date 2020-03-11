@@ -41,7 +41,7 @@ public class CarFactory {
 	 * @return a car
 	 */
 	public Car createCar(String type) {
-		Car car;
+		Car car = null;
 		if(type.equals("economy"))
 			car = new Economy();
 		else if(type.equals("standard"))
@@ -50,10 +50,32 @@ public class CarFactory {
 			car = new Luxury();
 		else if(type.equals("suv"))
 			car = new SUV();
-		else
+		else if(type.equals("minivan"))
 			car = new Minivan();
+		else if(car == null)
+			throw new NullPointerException("Car is null");
+		
 		car.setPlate(plates.pop());
 		return car;
+	}
+	
+	public Car createCar(String type, Plate plate) {
+		Car car = null;
+		if(type.equals("economy"))
+			car = new Economy();
+		else if(type.equals("standard"))
+			car = new Standard();
+		else if(type.equals("luxury"))
+			car = new Luxury();
+		else if(type.equals("suv"))
+			car = new SUV();
+		else if(type.equals("minivan"))
+			car = new Minivan();
+		else if(car == null)
+			throw new NullPointerException("Car is null");
+		car.setPlate(plate);
+		return car;
+		
 	}
 
 }

@@ -12,8 +12,6 @@ The main method is contained in `Simulation.java`
 
 The instructions say to print the day's transactions "at the beginning of each day". It is assumed that this means after cars are rented out. Otherwise it would print no completed rentals.
 
-The code does not run to the end right now, but that is because I tried unsuccessfully to make it OO from the start.
-
 ## Work cited
 All design patterns documented in the code are taken from:
 

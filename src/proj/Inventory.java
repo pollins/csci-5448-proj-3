@@ -45,7 +45,8 @@ public class Inventory {
 	 */
 	public Car pollRandom() {
 		Random rand = new Random();
-		
+		if(cars.size() == 0)
+			System.out.println("Inventory empty");
 		int index = rand.nextInt(cars.size());
 		Car car = cars.get(index);
 		cars.remove(index);
@@ -56,9 +57,9 @@ public class Inventory {
 	 * Prints the cars' model and plate number
 	 */
 	public void print() {
+		System.out.println("Current inventory:");
 		for(Car car : cars) {
-			if(car != null)
-				System.out.println(car.getDescription() + ", " + car.getPlateNumber());
+			System.out.println(car.getDescription() + ", " + car.getPlateNumber());
 		}
 	}
 

@@ -53,7 +53,6 @@ public class CarRentalStore implements CalendarObserver {
 		
 		for(int i = 0; i < 2; i++)
 			addCar(orderCar("luxury"));
-			
 	}
 	
 	/**
@@ -154,7 +153,7 @@ public class CarRentalStore implements CalendarObserver {
 	 * Prints the income for all previous days
 	 */
 	public void printTotalIncome() {
-		System.out.println("Total income was " + totalIncome);
+		System.out.println("Total income was $" + totalIncome);
 	}
 	
 	/**
@@ -165,10 +164,10 @@ public class CarRentalStore implements CalendarObserver {
 		for(HashMap.Entry<String, Integer> entry : counts.entrySet()) {
 			String type = entry.getKey();
 			int value = entry.getValue();
-			System.out.println("Rentals from " + type + " customers:" + value);
+			System.out.println("Cars rented by " + type + " customers: " + value);
 			total += value;
 		}
-		System.out.println("Total rentals: " + total);
+		System.out.println("Total cars rented: " + total);
 	}
 	
 	/**

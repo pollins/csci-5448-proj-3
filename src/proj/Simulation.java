@@ -37,7 +37,7 @@ public class Simulation {
 		
 		while(calendar.getDate() < 35) {
 			System.out.println("Day " + (int)(calendar.getDate() + 1));
-			Collections.shuffle(customers);
+			Collections.shuffle(customers); // takes a random number of customers and sends them to the store
 			int numCust = rand.nextInt(customers.size() + 1);
 			for(int i = 0; i < numCust; i++) {
 				Customer customer = customers.get(i);

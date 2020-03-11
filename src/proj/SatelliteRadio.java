@@ -15,6 +15,7 @@ public class SatelliteRadio extends CarDecorator {
 	 * Concrete decorator constructor
 	 */
 	public SatelliteRadio(Car myCar) {
+		super(myCar);
 		car = myCar;
 	}
 
