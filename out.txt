@@ -1,104 +1,727 @@
 Day 1
-Economy Car, AWB245
-Standard Car, IBE561
-Economy Car, TNL021
-Standard Car, LES927
-Economy Car, BMT792
-Standard Car, GNE564
-Economy Car, DSL417
-Standard Car, QOM745
-Economy Car, WDB470
-Standard Car, LBY612
-Economy Car, HFK471
-Standard Car, AXM079
-Economy Car, NYI168
-Standard Car, VGR012
-Economy Car, KYU729
-Standard Car, LQX112
-Minivan, RBI117
-SUV, GFB840
-Minivan, GJE719
-SUV, JAF635
-Minivan, JHH027
-SUV, NDC678
-Luxury Car, ZHX158
-Luxury Car, BBM562
-Income for the day was 0.0
-Day 2
 Richard the regular customer rented:
+    Standard Car, GPS, Child safety seat, Child safety seat, Child safety seat
+for 3 days at a total cost of $63.0.
+Cory the casual customer rented:
+    Minivan, GPS, Child safety seat, Child safety seat, Child safety seat
+for 2 days at a total cost of $67.0.
+Rachel the regular customer rented:
+    Economy Car, Child safety seat, Child safety seat, Child safety seat
+for 3 days at a total cost of $44.0.
+Current inventory:
+Economy Car, ZBS521
+Standard Car, YLG717
+Economy Car, WVL102
+Standard Car, FRL516
+Economy Car, OQL846
+Standard Car, CWA501
+Standard Car, CHT782
+Economy Car, RAZ093
+Standard Car, CTY903
+Economy Car, RYC687
+Standard Car, PLL401
+Economy Car, JKP752
+Economy Car, HRJ359
+Standard Car, ROI507
+Minivan, FUA169
+SUV, MQH191
+Minivan, NQN663
+SUV, EUG912
+SUV, KPR392
+Luxury Car, ESU545
+Luxury Car, RFZ652
+Income for the day was 290.0
+Day 2
+Betty the business customer rented:
+    Minivan, GPS, Satellite radio, Child safety seat
+    Standard Car, GPS, Child safety seat
+    Luxury Car, Child safety seat, Child safety seat, Child safety seat
+for 7 days at a total cost of $237.0.
+Ben the business customer rented:
+    Standard Car, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+    Standard Car, GPS, Child safety seat
+    Economy Car, GPS, Child safety seat, Child safety seat, Child safety seat
+for 7 days at a total cost of $159.0.
+Barbara the business customer rented:
+    SUV, Child safety seat
+    Luxury Car, GPS, Child safety seat, Child safety seat, Child safety seat
+    Standard Car
+for 7 days at a total cost of $211.0.
+Current inventory:
+Standard Car, YLG717
+Economy Car, WVL102
+Standard Car, FRL516
+Economy Car, OQL846
+Economy Car, RAZ093
+Economy Car, RYC687
+Standard Car, PLL401
+Economy Car, JKP752
+Economy Car, HRJ359
+Minivan, FUA169
+SUV, MQH191
+SUV, EUG912
+Income for the day was 2971.0
+Day 3
+Charles the casual customer rented:
+    Economy Car, Child safety seat, Child safety seat
+for 2 days at a total cost of $36.0.
+Current inventory:
+Standard Car, YLG717
+Economy Car, WVL102
+Standard Car, FRL516
+Economy Car, OQL846
+Economy Car, RAZ093
+Economy Car, RYC687
+Standard Car, PLL401
+Economy Car, JKP752
+Minivan, FUA169
+SUV, MQH191
+SUV, EUG912
+Minivan, FBK588
+Income for the day was 56.0
+Day 4
+Rob the regular customer rented:
+    Standard Car
+    Economy Car, Child safety seat, Child safety seat
+for 4 days at a total cost of $60.0.
+Current inventory:
+Standard Car, YLG717
+Economy Car, WVL102
+Economy Car, OQL846
+Economy Car, RAZ093
+Economy Car, RYC687
+Standard Car, PLL401
+Minivan, FUA169
+SUV, MQH191
+SUV, EUG912
+Minivan, FBK588
+Standard Car, WTA313
+Economy Car, UPN048
+Income for the day was 192.0
+Day 5
+Richard the regular customer rented:
+    Standard Car, GPS, Child safety seat
+    Standard Car, GPS
+for 3 days at a total cost of $86.0.
+Bill the business customer rented:
+    Economy Car, GPS, Child safety seat, Child safety seat
+    Economy Car, Satellite radio, Child safety seat, Child safety seat
+    Economy Car, Satellite radio, Child safety seat
+for 7 days at a total cost of $125.0.
+Carl the casual customer rented:
+    SUV, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $59.0.
+Callie the casual customer rented:
+    Economy Car, Satellite radio, Child safety seat, Child safety seat
+for 2 days at a total cost of $41.0.
+Charles the casual customer rented:
+    SUV, Satellite radio, Child safety seat, Child safety seat
+for 1 days at a total cost of $51.0.
+Rachel the regular customer rented:
     Economy Car, GPS, Satellite radio, Child safety seat
 for 4 days at a total cost of $48.0.
 Rose the regular customer rented:
-    Economy Car, GPS, Child safety seat
-    Minivan, GPS, Child safety seat, Child safety seat
-for 4 days at a total cost of $102.0.
-Rob the regular customer rented:
-    Economy Car, GPS, Satellite radio, Child safety seat, Child safety seat, Child safety seat
-for 3 days at a total cost of $64.0.
-Standard Car, IBE561
-Economy Car, TNL021
-Standard Car, LES927
-Economy Car, BMT792
-Standard Car, GNE564
-Economy Car, DSL417
-Standard Car, QOM745
-Standard Car, LBY612
-Economy Car, HFK471
-Standard Car, AXM079
-Economy Car, NYI168
-Standard Car, VGR012
-Standard Car, LQX112
-Minivan, RBI117
-SUV, GFB840
-Minivan, GJE719
-SUV, JAF635
-SUV, NDC678
-Luxury Car, ZHX158
-Luxury Car, BBM562
-Income for the day was 458.0
-Day 3
-Rob the regular customer rented:
-    Standard Car, Child safety seat
-    Luxury Car, GPS, Satellite radio, Child safety seat, Child safety seat, Child safety seat
-for 3 days at a total cost of $186.0.
+    Standard Car, GPS, Satellite radio, Child safety seat, Child safety seat
+    Minivan, GPS, Child safety seat, Child safety seat, Child safety seat
+for 4 days at a total cost of $127.0.
+Current inventory:
+Economy Car, OQL846
+Minivan, FUA169
+Income for the day was 1229.0
+Day 6
+Carl the casual customer rented:
+    Minivan, GPS, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 2 days at a total cost of $72.0.
 Charles the casual customer rented:
-    Standard Car
-for 1 days at a total cost of $24.0.
+    SUV, GPS, Satellite radio, Child safety seat, Child safety seat
+for 2 days at a total cost of $66.0.
+Current inventory:
+Economy Car, OQL846
+SUV, EUG912
+Income for the day was 196.0
+Day 7
+Callie the casual customer rented:
+    Economy Car, GPS
+for 1 days at a total cost of $35.0.
+Cory the casual customer rented:
+    Economy Car, GPS, Satellite radio, Child safety seat
+for 2 days at a total cost of $48.0.
+Current inventory:
+SUV, EUG912
+Income for the day was 103.0
+Day 8
+Cory the casual customer rented:
+    Minivan, Satellite radio
+for 1 days at a total cost of $33.0.
+Rob the regular customer rented:
+    Economy Car, GPS, Child safety seat
+    Standard Car, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 3 days at a total cost of $96.0.
+Current inventory:
+SUV, EUG912
+Standard Car, FRL516
+Standard Car, YLG717
+SUV, MQH191
+Economy Car, WVL102
+Income for the day was 217.0
+Day 9
+Barbara the business customer rented:
+    Economy Car
+    Standard Car, Satellite radio
+    Standard Car, Satellite radio, Child safety seat, Child safety seat
+for 7 days at a total cost of $94.0.
+Ben the business customer rented:
+    Standard Car, Satellite radio
+    Luxury Car, GPS, Satellite radio, Child safety seat, Child safety seat
+    Minivan, GPS, Satellite radio, Child safety seat
+for 7 days at a total cost of $231.0.
+Callie the casual customer rented:
+    Economy Car, GPS, Child safety seat, Child safety seat
+for 1 days at a total cost of $51.0.
+Cory the casual customer rented:
+    Economy Car, GPS, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $59.0.
 Carl the casual customer rented:
     Standard Car, Satellite radio, Child safety seat
-for 2 days at a total cost of $37.0.
-Bill the business customer rented:
-    Minivan, Satellite radio, Child safety seat
-    Luxury Car, Satellite radio, Child safety seat
-    Economy Car, GPS, Satellite radio, Child safety seat
-for 7 days at a total cost of $212.0.
-Cory the casual customer rented:
-    Economy Car, Child safety seat
-for 2 days at a total cost of $28.0.
-Betty the business customer rented:
-    Standard Car, GPS, Satellite radio, Child safety seat, Child safety seat
-    Economy Car, GPS, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $37.0.
+Rose the regular customer rented:
+    Minivan, Child safety seat
+for 4 days at a total cost of $36.0.
+Charles the casual customer rented:
     SUV, GPS, Satellite radio, Child safety seat, Child safety seat
-for 7 days at a total cost of $190.0.
-Barbara the business customer rented:
-    SUV, Satellite radio, Child safety seat
-    SUV, GPS, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $66.0.
+Rachel the regular customer rented:
+    Economy Car, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 3 days at a total cost of $49.0.
+Rob the regular customer rented:
+    Standard Car, Child safety seat, Child safety seat, Child safety seat
+for 4 days at a total cost of $48.0.
+Richard the regular customer rented:
+    Luxury Car, GPS, Child safety seat
+for 3 days at a total cost of $133.0.
+Betty the business customer rented:
+    Minivan, Child safety seat
+    Standard Car, Child safety seat
+    SUV, Satellite radio
+for 7 days at a total cost of $103.0.
+Current inventory:
+SUV, EUG912
+Standard Car, CHT782
+Income for the day was 3195.0
+Day 10
+Rachel the regular customer rented:
+    Standard Car, GPS, Child safety seat, Child safety seat
+for 4 days at a total cost of $55.0.
+Cory the casual customer rented:
+    Economy Car, Child safety seat, Child safety seat
+for 2 days at a total cost of $36.0.
+Rose the regular customer rented:
+    Standard Car, GPS, Satellite radio, Child safety seat
+    SUV, GPS, Satellite radio, Child safety seat
+for 3 days at a total cost of $110.0.
+Richard the regular customer rented:
+    Economy Car
+    SUV, GPS, Child safety seat, Child safety seat, Child safety seat
+for 3 days at a total cost of $89.0.
+Current inventory:
+Income for the day was 590.0
+Day 11
+Charles the casual customer rented:
+    Economy Car, GPS, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $59.0.
+Carl the casual customer rented:
     Standard Car, Child safety seat, Child safety seat
-for 7 days at a total cost of $157.0.
+for 2 days at a total cost of $40.0.
+Current inventory:
+Income for the day was 123.0
+Day 12
+Callie the casual customer rented:
+    Economy Car, GPS, Satellite radio, Child safety seat, Child safety seat
+for 2 days at a total cost of $56.0.
+Rachel the regular customer rented:
+    Economy Car, Child safety seat
+for 4 days at a total cost of $28.0.
+Cory the casual customer rented:
+    Economy Car, Satellite radio, Child safety seat, Child safety seat
+for 1 days at a total cost of $41.0.
+Charles the casual customer rented:
+    Economy Car, Child safety seat, Child safety seat
+for 1 days at a total cost of $36.0.
+Bill the business customer rented:
+    Economy Car, Child safety seat, Child safety seat
+    Economy Car, Child safety seat
+    Luxury Car, Child safety seat
+for 7 days at a total cost of $182.0.
+Current inventory:
+Income for the day was 1323.0
+Day 13
+Current inventory:
+Minivan, NQN663
+Standard Car, YLG717
+Standard Car, FRL516
+SUV, EUG912
+Economy Car, OQL846
+SUV, MQH191
+Standard Car, PLL401
+Economy Car, HRJ359
+Economy Car, RYC687
+Income for the day was 0.0
+Day 14
+Callie the casual customer rented:
+    Economy Car, GPS
+for 2 days at a total cost of $35.0.
+Cory the casual customer rented:
+    Standard Car, GPS, Satellite radio, Child safety seat
+for 1 days at a total cost of $52.0.
+Richard the regular customer rented:
+    Standard Car, GPS, Satellite radio, Child safety seat
+for 4 days at a total cost of $52.0.
+Rachel the regular customer rented:
+    Minivan, GPS, Satellite radio, Child safety seat
+    Economy Car
+for 3 days at a total cost of $76.0.
+Carl the casual customer rented:
+    Economy Car, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $44.0.
+Current inventory:
+Standard Car, FRL516
+SUV, EUG912
+SUV, MQH191
+Standard Car, CHT782
+Economy Car, RAZ093
+Income for the day was 447.0
+Day 15
+Rob the regular customer rented:
+    SUV, GPS, Child safety seat, Child safety seat
+for 3 days at a total cost of $61.0.
+Carl the casual customer rented:
+    Economy Car, Child safety seat
+for 1 days at a total cost of $28.0.
+Current inventory:
+Standard Car, FRL516
+SUV, MQH191
+Standard Car, CHT782
+Standard Car, PLL401
+Economy Car, OQL846
+Income for the day was 149.0
+Day 16
+Ben the business customer rented:
+    Economy Car, GPS, Child safety seat, Child safety seat
+    Minivan, Satellite radio
+    Standard Car, GPS, Satellite radio
+for 7 days at a total cost of $128.0.
+Rose the regular customer rented:
+    Standard Car, GPS, Satellite radio, Child safety seat
+    Standard Car, GPS, Satellite radio, Child safety seat, Child safety seat
+for 4 days at a total cost of $112.0.
+Charles the casual customer rented:
+    Standard Car, GPS, Satellite radio, Child safety seat, Child safety seat
+for 1 days at a total cost of $60.0.
+Rob the regular customer rented:
+    Economy Car, Child safety seat, Child safety seat
+for 4 days at a total cost of $36.0.
+Carl the casual customer rented:
+    Standard Car, GPS, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $63.0.
+Richard the regular customer rented:
+    Economy Car, Child safety seat, Child safety seat
+for 4 days at a total cost of $36.0.
+Betty the business customer rented:
+    Economy Car, GPS, Child safety seat, Child safety seat, Child safety seat
+    Minivan, Child safety seat, Child safety seat
+    Standard Car, Child safety seat, Child safety seat
+for 7 days at a total cost of $143.0.
+Barbara the business customer rented:
+    SUV, Child safety seat
+    Economy Car, GPS, Child safety seat
+    Luxury Car, GPS
+for 7 days at a total cost of $206.0.
+Cory the casual customer rented:
+    Standard Car, GPS, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $63.0.
+Callie the casual customer rented:
+    SUV, GPS, Child safety seat
+for 2 days at a total cost of $53.0.
+Current inventory:
+Income for the day was 3018.0
+Day 17
+Cory the casual customer rented:
+    Minivan, GPS, Satellite radio
+for 2 days at a total cost of $48.0.
+Richard the regular customer rented:
+    Economy Car, Child safety seat, Child safety seat, Child safety seat
+for 4 days at a total cost of $44.0.
+Rachel the regular customer rented:
+    Standard Car, GPS, Satellite radio
+for 3 days at a total cost of $44.0.
+Charles the casual customer rented:
+    Standard Car, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 2 days at a total cost of $53.0.
+Carl the casual customer rented:
+    Standard Car, Satellite radio
+for 1 days at a total cost of $29.0.
+Current inventory:
+Income for the day was 378.0
+Day 18
+Richard the regular customer rented:
+    Standard Car, Satellite radio, Child safety seat
+for 3 days at a total cost of $37.0.
+Charles the casual customer rented:
+    Standard Car, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $53.0.
+Callie the casual customer rented:
+    SUV, GPS, Satellite radio
+for 2 days at a total cost of $50.0.
+Rose the regular customer rented:
+    SUV, GPS, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 4 days at a total cost of $74.0.
+Current inventory:
+Income for the day was 382.0
+Day 19
+Carl the casual customer rented:
+    Standard Car, GPS, Child safety seat, Child safety seat, Child safety seat
+for 2 days at a total cost of $63.0.
+Rachel the regular customer rented:
+    Standard Car, GPS, Child safety seat
+    Minivan, GPS, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 3 days at a total cost of $119.0.
+Bill the business customer rented:
+    Luxury Car, Satellite radio, Child safety seat
+    Economy Car, Child safety seat
+    Economy Car, GPS, Child safety seat
+for 7 days at a total cost of $194.0.
+Current inventory:
+Income for the day was 1404.0
+Day 20
+Rachel the regular customer rented:
+    SUV, Satellite radio, Child safety seat, Child safety seat
+for 4 days at a total cost of $51.0.
+Rose the regular customer rented:
+    Standard Car, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+    Standard Car, GPS, Satellite radio, Child safety seat
+for 3 days at a total cost of $105.0.
+Carl the casual customer rented:
+    Economy Car, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $44.0.
+Cory the casual customer rented:
+    Economy Car, Satellite radio
+for 2 days at a total cost of $25.0.
+Callie the casual customer rented:
+    Standard Car, GPS, Satellite radio
+for 1 days at a total cost of $44.0.
+Current inventory:
+Income for the day was 475.0
+Day 21
+Callie the casual customer rented:
+    Standard Car, Satellite radio, Child safety seat
+for 2 days at a total cost of $37.0.
+Richard the regular customer rented:
+    Standard Car, GPS, Satellite radio, Child safety seat
+for 4 days at a total cost of $52.0.
+Current inventory:
+Economy Car, RYC687
+Standard Car, FRL516
+Economy Car, OQL846
+Income for the day was 185.0
+Day 22
+Callie the casual customer rented:
+    Economy Car
+for 1 days at a total cost of $20.0.
+Rachel the regular customer rented:
+    Standard Car, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+    SUV
+for 4 days at a total cost of $83.0.
+Cory the casual customer rented:
+    Standard Car, Satellite radio, Child safety seat
+for 1 days at a total cost of $37.0.
+Charles the casual customer rented:
+    Economy Car, Satellite radio
+for 1 days at a total cost of $25.0.
+Carl the casual customer rented:
+    Minivan, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 2 days at a total cost of $57.0.
+Current inventory:
+Economy Car, RYC687
+Income for the day was 412.0
+Day 23
+Rob the regular customer rented:
+    Standard Car, GPS, Child safety seat
+    Standard Car, GPS, Satellite radio, Child safety seat
+for 4 days at a total cost of $99.0.
+Barbara the business customer rented:
+    Standard Car, Satellite radio, Child safety seat, Child safety seat
+    Economy Car, GPS, Satellite radio, Child safety seat
+    Economy Car, Child safety seat, Child safety seat
+for 7 days at a total cost of $129.0.
+Betty the business customer rented:
+    Minivan, GPS, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+    Minivan, GPS, Satellite radio
+    Economy Car, GPS, Satellite radio
+for 7 days at a total cost of $160.0.
+Rose the regular customer rented:
+    Standard Car, Child safety seat
+for 4 days at a total cost of $32.0.
+Callie the casual customer rented:
+    Standard Car, GPS, Child safety seat
+for 1 days at a total cost of $47.0.
+Cory the casual customer rented:
+    SUV
+for 1 days at a total cost of $30.0.
+Current inventory:
+Economy Car, UPN048
+Economy Car, RAZ093
+Luxury Car, ESU545
+Standard Car, YLG717
+Economy Car, HRJ359
+Income for the day was 1553.0
+Day 24
+Cory the casual customer rented:
+    SUV, Satellite radio, Child safety seat, Child safety seat
+for 2 days at a total cost of $51.0.
+Callie the casual customer rented:
+    Economy Car, Satellite radio, Child safety seat, Child safety seat
+for 1 days at a total cost of $41.0.
+Rose the regular customer rented:
+    Standard Car, GPS, Child safety seat, Child safety seat, Child safety seat
+for 4 days at a total cost of $63.0.
+Carl the casual customer rented:
+    Luxury Car, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $134.0.
+Charles the casual customer rented:
+    Economy Car
+for 1 days at a total cost of $20.0.
+Richard the regular customer rented:
+    Standard Car
+for 3 days at a total cost of $24.0.
+Current inventory:
+Economy Car, RAZ093
+Minivan, NQN663
+SUV, KPR392
+Income for the day was 483.0
+Day 25
+Carl the casual customer rented:
+    Luxury Car, Child safety seat, Child safety seat
+for 2 days at a total cost of $126.0.
+Current inventory:
+Economy Car, RAZ093
+Minivan, NQN663
+SUV, KPR392
+Standard Car, CTY903
+Economy Car, HRJ359
+Economy Car, UPN048
+Income for the day was 236.0
+Day 26
+Cory the casual customer rented:
+    Economy Car, GPS, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $64.0.
+Richard the regular customer rented:
+    Minivan, GPS, Child safety seat, Child safety seat
+    Economy Car, GPS, Child safety seat
+for 4 days at a total cost of $102.0.
+Bill the business customer rented:
+    Economy Car, Satellite radio
+    Standard Car, Satellite radio, Child safety seat, Child safety seat
+    SUV, Child safety seat, Child safety seat, Child safety seat
+for 7 days at a total cost of $124.0.
+Callie the casual customer rented:
+    SUV, GPS
+for 2 days at a total cost of $45.0.
+Carl the casual customer rented:
+    Economy Car, GPS, Child safety seat
+for 2 days at a total cost of $43.0.
+Current inventory:
+Economy Car, UPN048
+Luxury Car, RFZ652
+Standard Car, FRL516
+SUV, EUG912
+Income for the day was 1016.0
+Day 27
+Current inventory:
+Economy Car, UPN048
+Luxury Car, RFZ652
+Standard Car, FRL516
+SUV, EUG912
+Standard Car, WTA313
+Standard Car, CHT782
+Standard Car, CWA501
+Standard Car, PLL401
+Luxury Car, ESU545
+Economy Car, ZBS521
+Income for the day was 0.0
+Day 28
+Charles the casual customer rented:
+    Standard Car, Child safety seat, Child safety seat
+for 1 days at a total cost of $40.0.
+Callie the casual customer rented:
+    Standard Car, GPS, Satellite radio, Child safety seat
+for 1 days at a total cost of $52.0.
+Rose the regular customer rented:
+    Standard Car, GPS, Child safety seat, Child safety seat, Child safety seat
+    Economy Car, Satellite radio, Child safety seat, Child safety seat
+for 4 days at a total cost of $104.0.
+Cory the casual customer rented:
+    SUV, GPS, Child safety seat, Child safety seat
+for 2 days at a total cost of $61.0.
+Current inventory:
+Economy Car, UPN048
+Luxury Car, RFZ652
+Standard Car, FRL516
+SUV, EUG912
+Standard Car, WTA313
+Standard Car, CWA501
+Luxury Car, ESU545
+Economy Car, JKP752
+Income for the day was 419.0
+Day 29
+Rachel the regular customer rented:
+    Luxury Car
+    Standard Car, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 3 days at a total cost of $163.0.
+Callie the casual customer rented:
+    Economy Car, GPS, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $64.0.
+Carl the casual customer rented:
+    Luxury Car, GPS, Satellite radio, Child safety seat, Child safety seat
+for 1 days at a total cost of $146.0.
+Rob the regular customer rented:
+    Economy Car, Child safety seat
+for 3 days at a total cost of $28.0.
+Charles the casual customer rented:
+    Standard Car, Satellite radio
+for 1 days at a total cost of $29.0.
+Rose the regular customer rented:
+    Standard Car, GPS, Child safety seat, Child safety seat, Child safety seat
+for 3 days at a total cost of $63.0.
+Richard the regular customer rented:
+    SUV, Child safety seat, Child safety seat, Child safety seat
+for 4 days at a total cost of $54.0.
+Cory the casual customer rented:
+    Standard Car, GPS, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $63.0.
+Current inventory:
+Standard Car, CHT782
+Income for the day was 1056.0
+Day 30
+Current inventory:
+Standard Car, CHT782
+Standard Car, ROI507
+Economy Car, RYC687
+Economy Car, OQL846
+Minivan, FUA169
+Minivan, FBK588
+Economy Car, WVL102
+Minivan, NQN663
+Economy Car, HRJ359
+SUV, KPR392
+Economy Car, UPN048
+Luxury Car, RFZ652
+Standard Car, CWA501
+Standard Car, WTA313
+Income for the day was 0.0
+Day 31
+Cory the casual customer rented:
+    Economy Car, GPS, Satellite radio
+for 2 days at a total cost of $40.0.
+Barbara the business customer rented:
+    Economy Car, GPS, Child safety seat
+    Standard Car, GPS, Satellite radio
+    Minivan, GPS, Satellite radio
+for 7 days at a total cost of $135.0.
+Ben the business customer rented:
+    Standard Car, Satellite radio
+    Minivan, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+    Standard Car, Child safety seat, Child safety seat, Child safety seat
+for 7 days at a total cost of $134.0.
+Richard the regular customer rented:
+    Luxury Car, GPS, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+    Economy Car, GPS, Child safety seat, Child safety seat
+for 3 days at a total cost of $205.0.
+Rob the regular customer rented:
+    SUV, GPS, Child safety seat
+for 4 days at a total cost of $53.0.
+Betty the business customer rented:
+    Minivan
+    Standard Car, GPS, Satellite radio, Child safety seat, Child safety seat
+    Economy Car, Satellite radio
+for 7 days at a total cost of $113.0.
+Charles the casual customer rented:
+    Economy Car, GPS, Child safety seat, Child safety seat
+for 1 days at a total cost of $51.0.
+Current inventory:
+Income for the day was 2421.0
+Day 32
+Rose the regular customer rented:
+    Economy Car, Child safety seat, Child safety seat, Child safety seat
+for 3 days at a total cost of $44.0.
+Rachel the regular customer rented:
+    Standard Car, Satellite radio, Child safety seat, Child safety seat
+for 4 days at a total cost of $45.0.
+Callie the casual customer rented:
+    Standard Car, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 1 days at a total cost of $53.0.
+Charles the casual customer rented:
+    Economy Car, Child safety seat, Child safety seat
+for 2 days at a total cost of $36.0.
+Carl the casual customer rented:
+    Economy Car, GPS, Satellite radio, Child safety seat, Child safety seat, Child safety seat
+for 2 days at a total cost of $64.0.
+Rob the regular customer rented:
+    Luxury Car, GPS, Child safety seat, Child safety seat, Child safety seat
+    Standard Car, Satellite radio
+for 3 days at a total cost of $178.0.
+Current inventory:
+Income for the day was 840.0
+Day 33
+Richard the regular customer rented:
+    Economy Car, GPS, Satellite radio, Child safety seat, Child safety seat
+for 4 days at a total cost of $56.0.
+Bill the business customer rented:
+    SUV, GPS, Child safety seat, Child safety seat
+    Standard Car, GPS, Child safety seat, Child safety seat
+    SUV, Child safety seat
+for 7 days at a total cost of $154.0.
+Callie the casual customer rented:
+    Economy Car, Child safety seat, Child safety seat, Child safety seat
+for 2 days at a total cost of $44.0.
+Rose the regular customer rented:
+    Standard Car, GPS, Child safety seat, Child safety seat
+for 4 days at a total cost of $55.0.
+Current inventory:
+Income for the day was 965.0
+Day 34
+Carl the casual customer rented:
+    Economy Car, GPS, Child safety seat
+for 1 days at a total cost of $43.0.
+Richard the regular customer rented:
+    Luxury Car, GPS, Child safety seat, Child safety seat, Child safety seat
+for 4 days at a total cost of $149.0.
+Current inventory:
+Economy Car, OQL846
+Economy Car, UPN048
+Income for the day was 522.0
+Day 35
+Cory the casual customer rented:
+    SUV
+for 2 days at a total cost of $30.0.
+Rob the regular customer rented:
+    Economy Car, GPS, Child safety seat, Child safety seat, Child safety seat
+    Economy Car, Satellite radio, Child safety seat
+for 4 days at a total cost of $92.0.
+Carl the casual customer rented:
+    Economy Car, GPS, Child safety seat, Child safety seat, Child safety seat
+for 2 days at a total cost of $59.0.
+Rose the regular customer rented:
+    Luxury Car, Satellite radio
+    Economy Car, Child safety seat, Child safety seat, Child safety seat
+for 3 days at a total cost of $159.0.
 Callie the casual customer rented:
     Standard Car, Satellite radio, Child safety seat, Child safety seat
 for 1 days at a total cost of $45.0.
-Rose the regular customer rented:
-    Minivan, GPS, Satellite radio, Child safety seat, Child safety seat, Child safety seat
-    Standard Car, GPS, Child safety seat, Child safety seat
-for 4 days at a total cost of $127.0.
-Rachel the regular customer rented:
-    Economy Car
-for 3 days at a total cost of $20.0.
-Economy Car, TNL021
-Standard Car, LBY612
-Income for the day was 3430.0
-Day 4
-Exception in thread "main" java.lang.NullPointerException
-	at proj3/proj.Customer.rent(Customer.java:52)
-	at proj3/proj.Simulation.main(Simulation.java:44)
+Current inventory:
+Economy Car, ZBS521
+Income for the day was 815.0
+Cars rented by business customers: 57
+Cars rented by casual customers: 69
+Cars rented by regular customers: 69
+Total cars rented: 195
+Total income was $27661.0
